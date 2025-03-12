@@ -6,4 +6,4 @@ echo "httpd installed"
 if else
 yum install httpd -y
 fi
-
+echo "httpd installed successfully"
