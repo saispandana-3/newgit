@@ -7,3 +7,4 @@ if else
 yum install httpd -y
 fi
 echo "httpd installed successfully"
+echo "start and enable httpd"
