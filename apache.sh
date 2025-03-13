@@ -9,3 +9,4 @@ fi
 echo "httpd installed successfully"
 echo "start and enable httpd"
 systemctl start httpd
+echo "httpd started successfully"
