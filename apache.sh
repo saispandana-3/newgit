@@ -10,3 +10,5 @@ echo "httpd installed successfully"
 echo "start and enable httpd"
 systemctl start httpd
 echo "httpd started successfully"
+systemctl enable httpd
+echo "httpd enabled successfully"
