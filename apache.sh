@@ -12,3 +12,4 @@ systemctl start httpd
 echo "httpd started successfully"
 systemctl enable httpd
 echo "httpd enabled successfully"
+echo "end line from local repository"
