@@ -13,3 +13,5 @@ echo "httpd started successfully"
 systemctl enable httpd
 echo "httpd enabled successfully"
 echo "end line from local repository"
+
+echo "the end"
