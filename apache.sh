@@ -16,3 +16,4 @@ echo "end line from local repository"
 
 echo "the end"
 echo "rebase remote"
+echo "rebase local"
