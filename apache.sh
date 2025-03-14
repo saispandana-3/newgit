@@ -15,3 +15,4 @@ echo "httpd enabled successfully"
 echo "end line from local repository"
 
 echo "the end"
+echo "rebase remote"
